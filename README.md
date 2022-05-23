@@ -1,5 +1,5 @@
-# NodeJSCommandLineNoteApp
-This is a NodeJS command line Weather created for learning purpose
+# Node JS CommandLine Weather App
+This is a NodeJS command line Weather App created for learning purpose
 
 After cloning the repository, kindly run the command: 'npm install' so that necessary libraries are installed on your project.
 
